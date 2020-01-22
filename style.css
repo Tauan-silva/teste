@@ -8,4 +8,9 @@ body lu li p{
 .menu{
   display: flex;
   justify-content: space-between;
+  background: tomato;
+}
+
+.menu li{
+  text-decoration: none; 
 }
