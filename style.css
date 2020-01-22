@@ -1,1 +1,11 @@
-/*Só pra introduzir o arquivo ao projeto*/
+body lu li p{
+  margin: 0px;
+  padding: 0px;
+  font-size: 1.2rem;
+  font-family: Arial;
+}
+
+.menu{
+  display: flex;
+  justify-content: space-between;
+}
